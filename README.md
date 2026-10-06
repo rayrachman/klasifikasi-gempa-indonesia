@@ -18,4 +18,4 @@
 *   **Fitur Paling Berpengaruh:** Fitur `prev_mag_1` (magnitudo gempa terakhir sebelum kejadian) dan `depth` (kedalaman episentrum) menjadi prediktor fisik paling dominan dalam mendeteksi akumulasi stres lempeng bumi.
 *   **Visualisasi Geospasial:** Dilengkapi dengan peta interaktif 38 Provinsi Indonesia menggunakan *Plotly Express* dan *REST API CARTO Voyager*.
 
-*Catatan: Anda dapat melihat visualisasi peta interaktif dan menjalankan ulang notebook ini secara cloud langsung di [Tautan Kaggle Notebook Anda]*
+*Catatan: Anda dapat melihat visualisasi peta interaktif dan menjalankan ulang notebook ini secara cloud langsung di https://www.kaggle.com/code/rayrachman/klasifikasi-gempa-bumi-indonesia-minor-vs-major*
